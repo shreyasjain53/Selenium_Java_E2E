@@ -1,0 +1,22 @@
+{
+  "EmployeeDetails": [
+    {
+      "Name": "Shreyas Kumar P",
+      "Location": "Bengaluru",
+      "Desidnation": "QA",
+      "Age": 27
+    },
+    {
+      "Namee": "Ramesh Babu",
+      "Location": "HYD",
+      "Desidnation": "Developer",
+      "Age": 28
+    },
+    {
+      "Name": "Pradeep Kumar Rout",
+      "Location": "Delhi",
+      "Desidnation": "Manager",
+      "Age": 29
+    }
+  ]
+}
